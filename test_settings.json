@@ -1,15 +1,15 @@
 {   
     "CLOUD" : {
-       "momentum.user": "okan@asseco-see.com",
-       "momentum.token": "u6tYhEe4RAR37WM3pMKIMaDaCQkKlAjQ6pT0JYQCQIU=",
+       "momentum.user": "<momentum-suite-username>",
+       "momentum.token": "<momentum-suite-access-key>",
        "momentum.host": "http://momentumv2.mobven.com:8088/wd/hub",
        "ios" : {
-            "momentum.app": "ms://9737f3df32bb49968b6e27ed7f3f0ac1",
-            "momentum.deviceList": [4014]
+            "momentum.app": "ms://<hashed-app-id>",
+            "momentum.deviceList": [9998]
         },
         "android" : {
-            "momentum.app": "ms://d894784d8a6245b68e93a6dc07134586",
-            "momentum.deviceList": [4001]
+            "momentum.app": "ms://<hashed-app-id>",
+            "momentum.deviceList": [9999]
             }
     },
    
